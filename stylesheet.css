@@ -1,0 +1,44 @@
+H1 {
+	font-family: Sans-Serif; font-style: bold;
+	font-size: 48; color: #191970; text-align: center;
+} 
+
+M1 {	 
+	font-size: 150%;
+	text-indent: 2em; 
+	margin-bottom: 0;
+}
+
+.listSpacing ul li {
+	padding-bottom:300px;
+}
+	
+#top-menu {
+    position: fixed;
+    top: 0;
+	left: -1em;
+    width: 33%;
+    margin: 0 33%;
+    color: white;
+    font-weight: bold;
+    font-size: small;
+    text-align: center;
+	background: #B0E0E6;
+    border: solid #B0E0E6;
+	border-radius: 0 0 4em 4em;
+    border-right: none;
+    box-shadow: 0 3px 5px black;
+}
+	
+.menu ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+.menu li {
+	display:inline;
+}
+
+.MENULINK A:link { COLOR: white; TEXT-DECORATION: none; font-weight: normal }
+.MENULINK A:active { COLOR: #C0C0C0; }
+.MENULINK A:hover { COLOR: #AFEEEE; TEXT-DECORATION: none; font-weight: none; }
